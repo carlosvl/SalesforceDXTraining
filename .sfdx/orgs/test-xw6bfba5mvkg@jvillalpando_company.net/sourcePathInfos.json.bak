@@ -32,28 +32,28 @@
     [
         "/Users/jvillalpando/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 306,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1502761695000,
+            "changeTime": 1502761695000,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1502762024000,
-            "changeTime": 1502762024000,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -710,53 +710,53 @@
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5999,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ab01ea23802f29326a8d084fc8bbb50f3d40d73c"
         }
     ],
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18234,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "b37f07ff1509c337990679c74ef80f1614599a8d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b37f07ff1509c337990679c74ef80f1614599a8d"
         }
     ],
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5663,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "e2c3b90ab6e50fffb2e63e1c7cafe555940e7cbc"
         }
     ],
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5659,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "745583dd5b207d2bfa54927a99eb0bc3a567c290"
         }
     ],
     [
@@ -856,7 +856,7 @@
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
             "size": 204,
-            "modifiedTime": 1502761878000,
+            "modifiedTime": 1502746487000,
             "changeTime": 1502746487000,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
             "isMetadataFile": false,
@@ -931,14 +931,14 @@
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1502761724000,
+            "changeTime": 1502761724000,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1502762115000,
-            "changeTime": 1502762115000,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -1009,209 +1009,27 @@
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/Users/jvillalpando/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1502761878000,
             "changeTime": 1502761878000,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1502762024000,
-            "changeTime": 1502762024000,
-            "contentHash": "9b10fc950c90c6623061197f88c0db00961e1f2f"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 272,
-            "modifiedTime": 1502761956000,
-            "changeTime": 1502761956000,
-            "contentHash": "9fe0106ed0f04a02776eb4dbdb9bb1ee85be87b7"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 396,
-            "modifiedTime": 1502762042000,
-            "changeTime": 1502762042000,
-            "contentHash": "1b91252886d2447a7b894a7b041830341f251951"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1502762024000,
-            "changeTime": 1502762024000,
-            "contentHash": "22ef10b2acb59793801abaf45e483c705bc14c8c"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1502762068000,
-            "changeTime": 1502762068000,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1502762056000,
-            "changeTime": 1502762056000,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1502762024000,
-            "changeTime": 1502762024000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1502762024000,
-            "changeTime": 1502762024000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 120,
-            "modifiedTime": 1502761978000,
-            "changeTime": 1502761978000,
-            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1502761956000,
-            "changeTime": 1502761956000,
-            "contentHash": "696b3214008c0232cc260fded1de3ff036b1a0a0"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 170,
-            "modifiedTime": 1502761989000,
-            "changeTime": 1502761989000,
-            "contentHash": "97aec742d594f26443b71d24ed7ae41e88305ad0"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1502761956000,
-            "changeTime": 1502761956000,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1502761956000,
-            "changeTime": 1502761956000,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/jvillalpando/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1502761956000,
-            "changeTime": 1502761956000,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ]
 ]
